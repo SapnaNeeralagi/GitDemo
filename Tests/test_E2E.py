@@ -26,7 +26,7 @@ class TestOne(Baseclass):
                 checkoutpage.add()[i].click()
 
         checkoutpage.checknow().click()
-
+        log.info("Checking for Product name in fetched products")
         addeditem = self.driver.find_element_by_link_text("Blackberry").text
         assert addeditem == 'Blackberry'
 
@@ -37,7 +37,7 @@ class TestOne(Baseclass):
         Purchase.sendingText().click()
         Purchase.clickcheckbox().click()
         Purchase.finalstep().click()
-
+        log.info("Success in Ordering the product")
         message = Purchase.successMessage().text
         log.info("Text received is"+message)
         assert "Success! Thank you!" in message
