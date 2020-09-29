@@ -1,0 +1,190 @@
+2020-09-28 23:09:56,368 : INFO : test_e2e : Getting all the Titles of items
+2020-09-28 23:09:56,486 : INFO : test_e2e : iphone X
+2020-09-28 23:09:56,536 : INFO : test_e2e : Samsung Note 8
+2020-09-28 23:09:56,573 : INFO : test_e2e : Nokia Edge
+2020-09-28 23:09:56,620 : INFO : test_e2e : Blackberry
+2020-09-28 23:09:57,234 : INFO : test_e2e : Entering the Country Name
+2020-09-28 23:10:02,980 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-28 23:14:13,022 : INFO : test_e2e : Getting all the Titles of items
+2020-09-28 23:14:13,082 : INFO : test_e2e : iphone X
+2020-09-28 23:14:13,104 : INFO : test_e2e : Samsung Note 8
+2020-09-28 23:14:13,126 : INFO : test_e2e : Nokia Edge
+2020-09-28 23:14:13,151 : INFO : test_e2e : Blackberry
+2020-09-28 23:14:13,491 : INFO : test_e2e : Entering the Country Name
+2020-09-28 23:14:19,199 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-28 23:14:29,030 : INFO : test_submitform : First Name isSapna
+2020-09-28 23:14:29,189 : INFO : test_submitform : First Name isNeeralagi
+2020-09-28 23:14:30,486 : INFO : test_submitform : First Name isDurgappa
+2020-09-28 23:14:30,486 : INFO : test_submitform : First Name isDurgappa
+2020-09-28 23:14:30,593 : INFO : test_submitform : First Name isNeeralagi
+2020-09-28 23:14:30,593 : INFO : test_submitform : First Name isNeeralagi
+2020-09-28 23:20:44,841 : INFO : test_e2e : Getting all the Titles of items
+2020-09-28 23:20:44,899 : INFO : test_e2e : iphone X
+2020-09-28 23:20:44,922 : INFO : test_e2e : Samsung Note 8
+2020-09-28 23:20:44,941 : INFO : test_e2e : Nokia Edge
+2020-09-28 23:20:44,959 : INFO : test_e2e : Blackberry
+2020-09-28 23:20:45,296 : INFO : test_e2e : Entering the Country Name
+2020-09-28 23:20:50,871 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-28 23:20:59,834 : INFO : test_submitform : First Name isSapna
+2020-09-28 23:21:00,089 : INFO : test_submitform : First Name isNeeralagi
+2020-09-28 23:21:01,761 : INFO : test_submitform : First Name isDurgappa
+2020-09-28 23:21:01,761 : INFO : test_submitform : First Name isDurgappa
+2020-09-28 23:21:01,893 : INFO : test_submitform : First Name isNeeralagi
+2020-09-28 23:21:01,893 : INFO : test_submitform : First Name isNeeralagi
+2020-09-28 23:47:27,331 : INFO : test_e2e : Getting all the Titles of items
+2020-09-28 23:47:27,393 : INFO : test_e2e : iphone X
+2020-09-28 23:47:27,427 : INFO : test_e2e : Samsung Note 8
+2020-09-28 23:47:27,462 : INFO : test_e2e : Nokia Edge
+2020-09-28 23:47:27,487 : INFO : test_e2e : Blackberry
+2020-09-28 23:47:27,901 : INFO : test_e2e : Entering the Country Name
+2020-09-28 23:47:33,691 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-28 23:47:44,167 : INFO : test_submitform : First Name isSapna
+2020-09-28 23:47:44,332 : INFO : test_submitform : First Name isNeeralagi
+2020-09-28 23:47:46,059 : INFO : test_submitform : First Name isDurgappa
+2020-09-28 23:47:46,059 : INFO : test_submitform : First Name isDurgappa
+2020-09-28 23:47:46,199 : INFO : test_submitform : First Name isNeeralagi
+2020-09-28 23:47:46,199 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 00:40:59,262 : INFO : test_e2e : Getting all the Titles of items
+2020-09-29 00:40:59,327 : INFO : test_e2e : iphone X
+2020-09-29 00:40:59,353 : INFO : test_e2e : Samsung Note 8
+2020-09-29 00:40:59,375 : INFO : test_e2e : Nokia Edge
+2020-09-29 00:40:59,398 : INFO : test_e2e : Blackberry
+2020-09-29 00:40:59,816 : INFO : test_e2e : Entering the Country Name
+2020-09-29 00:41:05,516 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 00:41:15,155 : INFO : test_submitform : First Name isSapna
+2020-09-29 00:41:15,313 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 00:41:16,627 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 00:41:16,627 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 00:41:16,745 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 00:41:16,745 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 00:49:49,963 : INFO : test_e2e : Getting all the Titles of items
+2020-09-29 00:49:50,034 : INFO : test_e2e : iphone X
+2020-09-29 00:49:50,065 : INFO : test_e2e : Samsung Note 8
+2020-09-29 00:49:50,095 : INFO : test_e2e : Nokia Edge
+2020-09-29 00:49:50,122 : INFO : test_e2e : Blackberry
+2020-09-29 00:49:50,457 : INFO : test_e2e : Entering the Country Name
+2020-09-29 00:49:56,212 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 00:50:05,360 : INFO : test_submitform : First Name isSapna
+2020-09-29 00:50:05,526 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 00:50:07,975 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 00:50:07,975 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 00:50:08,097 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 00:50:08,097 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:04:30,357 : INFO : test_e2e : Getting all the Titles of items
+2020-09-29 01:04:30,402 : INFO : test_e2e : iphone X
+2020-09-29 01:04:30,423 : INFO : test_e2e : Samsung Note 8
+2020-09-29 01:04:30,446 : INFO : test_e2e : Nokia Edge
+2020-09-29 01:04:30,466 : INFO : test_e2e : Blackberry
+2020-09-29 01:04:30,851 : INFO : test_e2e : Entering the Country Name
+2020-09-29 01:04:37,014 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 01:04:48,242 : INFO : test_submitform : First Name isSapna
+2020-09-29 01:04:48,578 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:04:50,804 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 01:04:50,804 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 01:04:50,943 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:04:50,943 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:06:53,939 : INFO : test_e2e : Getting all the Titles of items
+2020-09-29 01:06:53,990 : INFO : test_e2e : iphone X
+2020-09-29 01:06:54,015 : INFO : test_e2e : Samsung Note 8
+2020-09-29 01:06:54,044 : INFO : test_e2e : Nokia Edge
+2020-09-29 01:06:54,069 : INFO : test_e2e : Blackberry
+2020-09-29 01:06:54,454 : INFO : test_e2e : Entering the Country Name
+2020-09-29 01:07:00,199 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 01:07:10,129 : INFO : test_submitform : First Name isSapna
+2020-09-29 01:07:10,321 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:07:12,287 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 01:07:12,287 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 01:07:12,436 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:07:12,436 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:15:27,175 : INFO : test_e2e : Getting all the Titles of items
+2020-09-29 01:15:27,237 : INFO : test_e2e : iphone X
+2020-09-29 01:15:27,262 : INFO : test_e2e : Samsung Note 8
+2020-09-29 01:15:27,285 : INFO : test_e2e : Nokia Edge
+2020-09-29 01:15:27,306 : INFO : test_e2e : Blackberry
+2020-09-29 01:15:27,715 : INFO : test_e2e : Entering the Country Name
+2020-09-29 01:15:33,641 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 01:15:43,067 : INFO : test_submitform : First Name isSapna
+2020-09-29 01:15:43,233 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:15:44,793 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 01:15:44,793 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 01:15:44,915 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:15:44,915 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:18:12,757 : INFO : test_e2e : Getting all the Titles of items
+2020-09-29 01:18:12,840 : INFO : test_e2e : iphone X
+2020-09-29 01:18:12,912 : INFO : test_e2e : Samsung Note 8
+2020-09-29 01:18:12,965 : INFO : test_e2e : Nokia Edge
+2020-09-29 01:18:12,995 : INFO : test_e2e : Blackberry
+2020-09-29 01:18:13,609 : INFO : test_e2e : Entering the Country Name
+2020-09-29 01:18:19,696 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 01:18:30,214 : INFO : test_submitform : First Name isSapna
+2020-09-29 01:18:30,379 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:18:31,912 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 01:18:31,912 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 01:18:32,060 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:18:32,060 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:22:43,771 : INFO : test_e2e : Getting all the Titles of items
+2020-09-29 01:22:43,807 : INFO : test_e2e : iphone X
+2020-09-29 01:22:43,823 : INFO : test_e2e : Samsung Note 8
+2020-09-29 01:22:43,836 : INFO : test_e2e : Nokia Edge
+2020-09-29 01:22:43,850 : INFO : test_e2e : Blackberry
+2020-09-29 01:22:44,080 : INFO : test_e2e : Entering the Country Name
+2020-09-29 01:22:49,470 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 01:22:58,227 : INFO : test_submitform : First Name isSapna
+2020-09-29 01:22:58,328 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:22:59,234 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 01:22:59,234 : INFO : test_submitform : First Name isDurgappa
+2020-09-29 01:22:59,304 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 01:22:59,304 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 14:36:09,386 : INFO : test_e2e : Getting all the Titles of items
+2020-09-29 14:36:09,444 : INFO : test_e2e : iphone X
+2020-09-29 14:36:09,463 : INFO : test_e2e : Samsung Note 8
+2020-09-29 14:36:09,486 : INFO : test_e2e : Nokia Edge
+2020-09-29 14:36:09,509 : INFO : test_e2e : Blackberry
+2020-09-29 14:36:09,872 : INFO : test_e2e : Entering the Country Name
+2020-09-29 14:36:15,531 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 15:14:13,210 : INFO : test_submitform : First Name isSapna
+2020-09-29 15:14:13,364 : INFO : test_submitform : First Name isNeeralagi
+2020-09-29 15:31:35,659 : INFO : test_submitform : First Name isMeghana
+2020-09-29 15:31:35,839 : INFO : test_submitform : First Name isPrasanna
+2020-09-29 19:09:25,222 : INFO : test_e2e : Getting all the Titles of items
+2020-09-29 19:09:25,254 : INFO : test_e2e : iphone X
+2020-09-29 19:09:25,267 : INFO : test_e2e : Samsung Note 8
+2020-09-29 19:09:25,278 : INFO : test_e2e : Nokia Edge
+2020-09-29 19:09:25,292 : INFO : test_e2e : Blackberry
+2020-09-29 19:09:25,523 : INFO : test_e2e : Entering the Country Name
+2020-09-29 19:09:30,940 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 19:09:39,414 : INFO : test_submitform : First Name isMeghana
+2020-09-29 19:09:39,631 : INFO : test_submitform : First Name isPrasanna
+2020-09-29 19:21:39,345 : INFO : test_e2e : Getting all the Titles of items
+2020-09-29 19:21:39,415 : INFO : test_e2e : iphone X
+2020-09-29 19:21:39,443 : INFO : test_e2e : Samsung Note 8
+2020-09-29 19:21:39,456 : INFO : test_e2e : Nokia Edge
+2020-09-29 19:21:39,475 : INFO : test_e2e : Blackberry
+2020-09-29 19:21:39,738 : INFO : test_e2e : Entering the Country Name
+2020-09-29 19:21:45,603 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 19:21:54,618 : INFO : test_submitform : First Name isMeghana
+2020-09-29 19:21:54,785 : INFO : test_submitform : First Name isPrasanna
+2020-09-29 19:46:09,575 : INFO : test_e2e : Getting all the Titles of items
+2020-09-29 19:46:09,637 : INFO : test_e2e : iphone X
+2020-09-29 19:46:09,649 : INFO : test_e2e : Samsung Note 8
+2020-09-29 19:46:09,656 : INFO : test_e2e : Nokia Edge
+2020-09-29 19:46:09,667 : INFO : test_e2e : Blackberry
+2020-09-29 19:46:10,363 : INFO : test_e2e : Entering the Country Name
+2020-09-29 19:46:16,333 : INFO : test_e2e : Text received is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-29 19:46:32,682 : INFO : test_submitform : First Name isMeghana
+2020-09-29 19:46:32,767 : INFO : test_submitform : First Name isPrasanna

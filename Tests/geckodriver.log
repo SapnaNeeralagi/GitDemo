@@ -1,0 +1,45 @@
+1601191201081	geckodriver	INFO	Listening on 127.0.0.1:49594
+1601388954250	geckodriver	INFO	Listening on 127.0.0.1:55013
+1601388957310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAPNA~1.NEE\\AppData\\Local\\Temp\\rust_mozprofileh9VkCv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601388964308	Marionette	INFO	Listening on port 55021
+1601388964365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601388976448	Marionette	INFO	Stopped listening on port 55021
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601388978033	geckodriver	INFO	Listening on 127.0.0.1:55113
+1601388981032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SAPNA~1.NEE\\AppData\\Local\\Temp\\rust_mozprofileksOpWC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1601388988397	Marionette	INFO	Listening on port 55122
+1601388988748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
+1601388995920	Marionette	INFO	Stopped listening on port 55122
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
